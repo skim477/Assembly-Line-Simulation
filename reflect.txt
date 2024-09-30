@@ -1,0 +1,4 @@
+Seongjun kim
+
+I think Milestone 3 is way too difficult to compare with other milestones 1 and 2. Milestones 1 and 2 are straightforward. Also, I think it would be better to have activities to practice smart pointer and multi thread on the milestones. I tried my best on LineManager::LineManager(const std::string& file, const std::vector<Workstation*>& stations) on the LineManager module, but is there another way to improve the code to improve readability. 
+Overall, the milestone is a good project to practice my coding skill except the milestone 3. I had really hard time to solve and it was confusing.
